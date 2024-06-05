@@ -96,7 +96,7 @@
         </div>
     </div>
     <div class="footer">
-        <p>Desenvolvido por [Seu Nome]</p>
+        <p>Desenvolvido por Brenda Lorrany</p>
     </div>
 </body>
 </html>
